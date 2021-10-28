@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;600;700&family=Inter:wght@400;500;600;700&display=swap');
+
+a {
+  color: #D7342A;
+  cursor: pointer;
+}
+
+#nprogress .bar {
+  background: #D7342A !important;
+}
